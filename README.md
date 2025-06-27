@@ -19,7 +19,7 @@ Python · C++, JavaScript · Swift · LaTeX · Bash Script · MATLAB · PyTorch 
 
 🎓 Aspiring to join a PhD program in Fall 2025 to push the boundaries of ML research.  
 ✉️ If you’re looking for a motivated researcher, [let’s talk](mailto:dylan.r.mathison@gmail.com)!  
-📃 Here is my [curriculum vitae](https://github.com/MingdaWan/mingdawan.github.io/blob/main/data/assets/CV.pdf).  
+📃 Here is my [curriculum vitae](https://mingdawan.github.io/data/assets/CV.pdf).  
 🔗 More information available at [homepage](https://mingdawan.github.io). 
 
 ---

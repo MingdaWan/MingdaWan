@@ -1,7 +1,7 @@
 # Hi there! 👋 I’m **Mingda Wan** *(万明达)*
 
-🎓 Fourth-year undergrad at Anhui University, passionate about machine learning and probabilistic methods.  
-🔭 Recently exploring diffusion-based architectures & their advanced optimization.
+🎓 Fourth-year undergrad at Anhui University, passionate about machine learning theory and its applications.  
+🔭 Recently exploring the theoretical analysis of generative modeling & LLMs methodology optimization.
 
 ---
 
